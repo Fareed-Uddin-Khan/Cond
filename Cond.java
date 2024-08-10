@@ -14,7 +14,7 @@ public class Cond {
                 break;
             }
             else {
-                System.out.println("The number entered is not an integer, please enter an integer");
+                System.out.println("The entered value is not an integer, please enter an integer value");
                 scanner.next();
             }
                         
@@ -27,7 +27,7 @@ public class Cond {
                 break;
             }
             else {
-                System.out.println("The number entered is not an integer, please enter an integer");
+                System.out.println("The entered value is not an integer, please enter an integer value");
                 scanner.next();
             }
                         
